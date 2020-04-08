@@ -1,13 +1,13 @@
 #!/bin/sh
 
-# # Install Docker
-# sudo apt install docker.io -y && \
-#     sudo usermod neviim -aG docker 
+# Install Docker
+sudo apt install docker.io -y && \
+    sudo usermod neviim -aG docker 
 
-# sudo systemctl start docker
-# sudo systemctl enable docker
+sudo systemctl start docker
+sudo systemctl enable docker
 
-# docker --version
+docker --version
 
 # Erro =========================================
 # Setup daemon.
