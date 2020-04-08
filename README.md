@@ -9,8 +9,8 @@
 
   $ ssh neviim@server.lan
 
-# $ sudo kubeadm init --config ./config/kubeadm_conf.yaml
-# $ sudo kubeadm config migrate --old-config ./config/kubeadm_conf.yaml --new-config ./config/kubeadm_upgrade_conf.yaml
+	# sudo kubeadm init --config ./config/kubeadm_conf.yaml
+	# sudo kubeadm config migrate --old-config ./config/kubeadm_conf.yaml --new-config ./config/kubeadm_upgrade_conf.yaml
 	$ sudo kubeadm init
 
 	

@@ -18,3 +18,4 @@ sudo hostnamectl --pretty set-hostname $hostname
 # static routers=$dns
 # static domain_name_servers=$dns
 # EOT
+
